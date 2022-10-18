@@ -41,11 +41,12 @@
         <div class="relative px-4 py-12 sm:px-6 lg:py-16 lg:px-8 bg-gradient-to-r from-green-500 to-lime-400 rounded-t-3xl">
             <!-- <div class="relative px-4 py-12 sm:px-6 lg:py-16 lg:px-8 rounded-t-3xl"> -->
 
-            <h1 class="text-white text-center w-full mx-auto text-2xl font-bold leading-none sm:text-4xl mb-14">Dicas da Semana</h1>
+            <h1 class="text-white text-center w-full mx-auto text-2xl font-bold leading-none sm:text-4xl mb-14">Dicas</h1>
 
             <div class="relative mx-auto max-w-7xl">
                 <div class="grid max-w-lg gap-12 mx-auto lg:grid-cols-3 lg:max-w-none">
-                    <div class="flex flex-col overflow-hidden rounded-lg shadow-lg shadow-green-500/40">
+
+                    <div class="flex flex-col overflow-hidden rounded-lg shadow-lg shadow-green-500/40 hover:scale-105 transition-all ease-in-out duration-200 cursor-pointer">
                         <div class="flex-shrink-0">
                             <img class="object-cover w-full h-48" src="./assets/img/horta-organica.jpg" alt="">
                         </div>
@@ -70,7 +71,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="flex flex-col overflow-hidden rounded-lg shadow-lg shadow-green-500/40">
+                    <div class="flex flex-col overflow-hidden rounded-lg shadow-lg shadow-green-500/40 hover:scale-105 transition-all ease-in-out duration-200 cursor-pointer">
                         <div class="flex-shrink-0">
                             <img class="object-cover w-full h-48" src="./assets/img/horta-organica-2.jpg" alt="">
                         </div>
@@ -96,7 +97,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="flex flex-col overflow-hidden rounded-lg shadow-lg shadow-green-500/40">
+                    <div class="flex flex-col overflow-hidden rounded-lg shadow-lg shadow-green-500/40 hover:scale-105 transition-all ease-in-out duration-200 cursor-pointer">
                         <div class="flex-shrink-0">
                             <img class="object-cover w-full h-48" src="./assets/img/horta-organica-3.jpeg" alt="">
                         </div>
